@@ -16,9 +16,6 @@ I'm a **Computer Science & Data Science** student passionate about **AI, machine
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaniMo137&langs_count=5&theme=tokyonight" height=150 />
 </a>
 <br>
-<a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=HaniMo137&theme=rogue" width=50% height=200 alt="graph"/>
-</a>
 </div>
 </div>
 🚀 Always open to new collaborations and opportunities!
