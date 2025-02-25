@@ -27,24 +27,16 @@
 ---
 
 ## 🛠️ **Skills**  
-- **Programming Languages**: Python, Java, C++, JavaScript  
+- **Programming Languages**: Python, Java, C/C++, Golang, JavaScript  
 - **Data Science**: Pandas, NumPy, Scikit-learn, TensorFlow  
-- **Cybersecurity**: Ethical Hacking, Network Security, CTF Challenges  
-- **Tools**: Git, Docker, Linux, VS Code  
-
----
-
-## 🌟 **Projects**  
-- 🧠 **AI-Powered Chatbot**: Built a conversational AI using TensorFlow and NLP.  
-- 🔐 **CTF Challenges**: Participated in multiple Capture The Flag competitions.  
-- 📈 **Data Analysis**: Analyzed large datasets to derive actionable insights.  
-
+- **Cybersecurity**: CTF Challenges  
+- **Tools**: Git, Docker, Linux, VS Code
+  
 ---
 
 ## 📫 **Let's Connect!**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🐦 [Twitter](https://twitter.com/yourprofile)  
-- 📧 **Email**: your.email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-rida-el-hani-556660246/)   
+- 📧 **Email**: harimo1410@gmail.com 
 
 ---
 
