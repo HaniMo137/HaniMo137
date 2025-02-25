@@ -22,8 +22,6 @@
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaniMo137&langs_count=5&theme=tokyonight&hide_border=true" height=180 />
   </a>
-</div>
-<div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=HaniMo137&theme=dracula&hide_border=true&area=true" width=95% alt="GitHub Activity Graph" />
 </div>
 ---
