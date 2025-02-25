@@ -10,14 +10,14 @@ I'm a **Computer Science & Data Science** student passionate about **AI, machine
 - 📚 Always learning and experimenting with new technologies  
 <div align="left">
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&show_icons=true" height=150 />
+  <img src="https://github-readme-stats.vercel.app/api?username=HaniMo137&theme=tokyonight&show_icons=true" height=150 />
 </a>
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=5&theme=tokyonight" height=150 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaniMo137&langs_count=5&theme=tokyonight" height=150 />
 </a>
 <br>
 <a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=rogue" width=50% height=200 alt="graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=HaniMo137&theme=rogue" width=50% height=200 alt="graph"/>
 </a>
 </div>
 </div>
