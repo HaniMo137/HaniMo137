@@ -11,21 +11,6 @@
 - 🔐 **Exploring Cybersecurity** through CTF challenges  
 - 🎮 **Interested in AI & Game Development**  
 - 📚 Always learning and experimenting with new technologies  
-
----
-
-## 📊 **GitHub Stats**  
-<div align="left">
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=HaniMo137&theme=tokyonight&show_icons=true&hide_border=true" height=180 />
-  </a>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaniMo137&langs_count=5&theme=tokyonight&hide_border=true" height=180 />
-  </a>
-  <a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaniMo137&theme=github-dark&hide_border=true&area=true" width=95% alt="GitHub Activity Graph" />
-  </a>
-</div>
 ---
 
 ## 🛠️ **Skills**  
