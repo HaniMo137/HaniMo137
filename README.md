@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Rida
 
+I love drawing and i post my art in my instagram acocunt.
+
 🌟 **Computer Science & Data Science Student** | Passionate about **AI, Machine Learning, and Cybersecurity**  
 💡 I love tackling complex problems and building efficient solutions.  
 
