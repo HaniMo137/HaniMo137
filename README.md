@@ -1,31 +1,84 @@
-# Hi there! 👋 I'm Rida
+<!-- ========================= -->
+<!-- 🟧⬜🟧  HANIMO / README  🟧⬜🟧 -->
+<!-- ========================= -->
 
+██████╗ █████╗ ███╗ ██╗██╗███╗ ███╗ ██████╗
+██╔══██╗██╔══██╗████╗ ██║██║████╗ ████║██╔═══██╗
+██████╔╝███████║██╔██╗ ██║██║██╔████╔██║██║ ██║
+██╔══██╗██╔══██║██║╚██╗██║██║██║╚██╔╝██║██║ ██║
+██║ ██║██║ ██║██║ ╚████║██║██║ ╚═╝ ██║╚██████╔╝
+╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═══╝╚═╝╚═╝ ╚═╝ ╚═════╝
 
-🌟 **Computer Science & Data Science Student** | Passionate about **AI, Machine Learning, and Cybersecurity**  
-💡 I love tackling complex problems and building efficient solutions.  
-
----
-
-## 🚀 **About Me**  
-- 🏆 **Gold Medalist** in Math&Maroc National Competition 2023  
-- 📊 **Data Science & Machine Learning Enthusiast**  
-- 🔐 **Exploring Cybersecurity** through CTF challenges  
-- 🎮 **Interested in AI & Game Development**  
-- 📚 Always learning and experimenting with new technologies  
----
-
-## 🛠️ **Skills**  
-- **Programming Languages**: Python, Java, C/C++, Golang, JavaScript  
-- **Data Science**: Pandas, NumPy, Scikit-learn, TensorFlow  
-- **Cybersecurity**: CTF Challenges  
-- **Tools**: Git, Docker, Linux, VS Code
-  
----
-
-## 📫 **Let's Connect!**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-rida-el-hani-556660246/)   
-- 📧 **Email**: harimo1410@gmail.com 
+# 🕹️ Mohammed-Rida EL HANI (Hanimo)
+**Computer Science Student • CTF Player • Math Nerd • Gamer • Self-taught Artist**  
+Obsessed with **Reverse Engineering** and **Low-Level Exploitation**.
 
 ---
 
-🚀 **Always open to new collaborations and opportunities!**  
+## 🎮 Character Sheet
+- 🧩 Main class: **Reverse Engineer**
+- ⚔️ Subclass: **Binary Exploitation / OSINT / Forensics**
+- 🧠 Passive skill: **Math competitor mindset** (Olympiads → Math Maroc → Uni comps)
+- 🎨 Side quest: **Advanced drawing** (check my Instagram 🖌️)
+
+---
+
+## 🧰 Arsenal
+### 🧨 Low-Level / Pwn / Rev
+- **Ghidra** • **radare2** • **GDB** (pwndbg / gef)  
+- **pwntools** • ELF/PE basics • shellcoding vibes 🧪  
+- **Wireshark** • **Burp Suite** • **Nmap**  
+
+### 🧠 Programming Languages
+`ASM` `C` `C++` `C#` `Go` `Java` `JavaScript` `Python` `R`
+
+### 🤖 ML / AI (Applied vibes)
+- ML tooling + experimentation  
+- Interested in **AI agents** for: **gaming**, **security**, and **math research**
+
+---
+
+## 🧪 Training Grounds
+- picoCTF 🏁  
+- pwnable 🧷  
+- Root-Me 🧱  
+- OverTheWire ⚡  
+- wargames grindset ✅
+
+---
+
+## 🧠 Lore (Anime / Manga)
+**Anime favorites:** JOJO • One Piece • Re:Zero  
+**Manga favorites:** Berserk • Vagabond • The Climber  
+
+---
+
+## 🎧 Game Library
+**Competitive:** Valorant (a lot) 🔥  
+**Platform / Metroidvania:** Blasphemous • Hollow Knight • Dead Cells  
+**Story / Souls-like:** Dark Souls • Ghost of Tsushima • The Witcher  
+
+---
+
+## 🏸 Sports & IRL Minigames
+- 🏸 **Badminton (best stat)**  
+- 🏐 Volleyball • ⚽ Football  
+- 🎱 Billiardo • 🏓 Ping Pong  
+
+---
+
+## 🧭 Interests (The Actual Plot)
+- 🧬 Low-level cybersecurity  
+- 🕵️ Research in reverse engineering & malware analysis  
+- 🎮 Game development  
+- 🤖 Applied AI + agents for **games / security / math**
+
+---
+
+## 📌 Contact / Links
+- GitHub: **@HaniMo137**
+- LinkedIn: `www.linkedin.com/in/mohammed-rida-el-hani-556660246`
+- Instagram (Art): `@HANI_MO_137`
+
+---
+
