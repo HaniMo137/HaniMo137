@@ -47,29 +47,33 @@ Engineering student exploring different areas of computer science. I like solvin
 
 **Cybersecurity**
 - Reverse engineering basics (Ghidra, radare2, GDB)
-- Binary exploitation and pwn challenges
+- Binary exploitation and defense mechanisms
+- Kernel exploitation (diving deep)
 - Malware analysis fundamentals
 - Network security (Wireshark, Burp Suite)
 - CTF platforms: PicoCTF, pwnable.kr, Hack The Box
 
 **AI & ML**
-- Exploring ML applications in malware detection
+- Agentic AI systems and architectures
+- Natural Language Processing (NLP)
+- ML applications in malware detection
 - Graph neural networks for behavioral analysis
-- PyTorch and TensorFlow basics
-- Working on using AI for cybersecurity tasks
+- PyTorch and TensorFlow
+- Reinforcement Learning for game AI
 
 **Game Development**
-- Unity/C# - learning game mechanics
-- Basic game AI and physics
+- Godot Engine (switching from Unity)
+- Implementing RL agents in games
+- Game AI and physics
 - Procedural generation concepts
 
 **Languages & Tools**
 ```python
 learning_stack = {
     "low_level": ["C", "C++", "Assembly"],
-    "scripting": ["Python", "Bash"],
-    "other": ["C#", "Go", "JavaScript"],
-    "tools": ["Ghidra", "GDB", "Git", "Docker"]
+    "scripting": ["Python", "Bash", "GDScript"],
+    "other": ["Go", "JavaScript"],
+    "tools": ["Ghidra", "GDB", "Godot", "Git", "Docker"]
 }
 ```
 
@@ -89,9 +93,9 @@ learning_stack = {
 ```
 
 **Previous Experience**
-- Moroccan Olympiad in Informatics (MOI Junior) - reached semi-finals
+- Moroccan Olympiad in Informatics (MOI Junior) - semi-finals (2019)
 - MNPC 2024 pre-selections (38th place)
-- National Math Olympiad training sessions
+- National Math Olympiad - Top 20 Morocco (2020-2022)
 - [Mathraining](https://www.mathraining.be) - Experienced rank (Belgian platform for mathematical problem-solving)
 
 ---
@@ -99,16 +103,18 @@ learning_stack = {
 ## 🎯 CURRENT FOCUS
 
 **Exploring**
-- ML models for malware detection
-- Binary exploitation techniques
-- Automated threat analysis
-- Game development with Unity
+- Agentic AI systems and architectures
+- NLP models and applications
+- Defense mechanisms against binary exploitation
+- Kernel-level exploitation techniques
+- Reinforcement learning in game environments
 
 **Learning Goals**
-- Improve reverse engineering skills
+- Master low-level security concepts
+- Build agentic AI projects
+- Implement RL agents in Godot games
 - Get better at CTF competitions
-- Build projects combining AI and security
-- Create some fun games along the way
+- Combine AI and security in meaningful ways
 
 ---
 
@@ -125,13 +131,14 @@ learning_stack = {
 │     Badminton • Football • Volleyball         │
 │     Billiards • Ping Pong                     │
 │                                                │
-│  🎮 GAMING                                     │
+│  🎮 FAVORITE GAMES                             │
 │     Valorant • Hollow Knight • Dark Souls     │
 │     Dead Cells • Ghost of Tsushima            │
+│     The Witcher 3 • Blasphemous               │
 │                                                │
-│  📺 ANIME & MANGA                              │
+│  📺 FAVORITE ANIME & MANGA                     │
 │     JOJO • One Piece • Re:Zero                │
-│     Berserk • Vagabond                        │
+│     Berserk • Vagabond • The Climber          │
 │                                                │
 │  ♟️ CHESS                                      │
 │     Intermediate level                        │
