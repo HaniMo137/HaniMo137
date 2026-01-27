@@ -17,9 +17,9 @@
         ╚══════╝ ╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝               
 ```
 
-**`[REVERSE_ENGINEER]` `[CTF_ADDICT]` `[MALWARE_WHISPERER]` `[PENCIL_WIZARD]`**
+**Student exploring cybersecurity, AI, and game dev**
 
-*Breaking binaries by day, breaking rank in Valorant by night* 🎮
+*Still learning, still breaking things (mostly accidentally)* 🎮
 
 </div>
 
@@ -30,68 +30,52 @@
 ```bash
 $ cat /proc/hanimo/status
 Name:                   Mohammed-Rida EL HANI
-Role:                   Binary Breaker & Malware Detective
-Obsessions:             { reverse_eng, AI x Security, game_dev }
-Side_Quest:             Traditional art (pencils > pixels)
-Current_Status:         Debugging life, one segfault at a time
-CTF_Addiction_Level:    ████████████████████ 100%
-Coffee_Dependency:      ██████████████████░░ 95%
+Role:                   CS Student @ UM6P
+Status:                 Learning & exploring
+Interests:              { cybersecurity, AI, game_dev, math }
+Side_Quest:             Traditional art (pencils are cool)
+Current_Mode:           Student discovering new stuff
+CTF_Addiction:          ████████████████░░░░ 80%
+Coffee_Level:           ██████████████░░░░░░ 70%
 ```
 
-I'm that guy who thinks malware samples are spicy puzzles and debuggers are my best friends. Spend most of my time:
-- Reverse engineering stuff that shouldn't be reversed
-- Teaching AI to hunt malware (because why not?)
-- Building games with questionable physics
-- Turning math olympiad trauma into CTF wins
-- Drawing with actual pencils like it's 1995
+Engineering student exploring different areas of computer science. I like solving puzzles, whether they're CTF challenges, math problems, or debugging code. Currently learning about reverse engineering, malware analysis, and how AI can be used in cybersecurity.
 
 ---
 
-## 💀 THE DARK ARTS
+## 🔧 WHAT I'M LEARNING
 
-<table>
-<tr>
-<td width="50%">
+**Cybersecurity**
+- Reverse engineering basics (Ghidra, radare2, GDB)
+- Binary exploitation and pwn challenges
+- Malware analysis fundamentals
+- Network security (Wireshark, Burp Suite)
+- CTF platforms: PicoCTF, pwnable.kr, Hack The Box
 
-### 🔴 Red Team Vibes
+**AI & ML**
+- Exploring ML applications in malware detection
+- Graph neural networks for behavioral analysis
+- PyTorch and TensorFlow basics
+- Working on using AI for cybersecurity tasks
+
+**Game Development**
+- Unity/C# - learning game mechanics
+- Basic game AI and physics
+- Procedural generation concepts
+
+**Languages & Tools**
 ```python
-class HanimoSkills:
-    def __init__(self):
-        self.rev_eng = ["Ghidra", "radare2", "GDB"]
-        self.pwn = ["pwntools", "shellcode", "ROP"]
-        self.forensics = "malware_analysis.exe"
-        self.network = ["Wireshark", "Burp", "Nmap"]
+learning_stack = {
+    "low_level": ["C", "C++", "Assembly"],
+    "scripting": ["Python", "Bash"],
+    "other": ["C#", "Go", "JavaScript"],
+    "tools": ["Ghidra", "GDB", "Git", "Docker"]
+}
 ```
-
-</td>
-<td width="50%">
-
-### 🤖 AI Meets Chaos
-```python
-class AIxCyber:
-    def __init__(self):
-        self.ml_for_malware = True
-        self.neural_pwn = "in_progress"
-        self.behavior_analysis = "GNN magic"
-        self.threat_hunting = "automated"
-```
-
-</td>
-</tr>
-</table>
-
-### 🎮 Game Dev Arsenal
-Building games where bugs are features:
-- **Unity/C#** - Making CPU schedulers fun (yes, really)
-- **Game AI** - NPCs that actually think
-- **Physics engines** - Breaking them, mostly
-- **Procedural gen** - Because handcrafting is for noobs
 
 ---
 
-## 🏴‍☠️ CTF BATTLE LOG
-
-> *"Sleep is for people who don't have flags to capture"*
+## 🏆 COMPETITIONS & ACHIEVEMENTS
 
 ```diff
 + 🥉 4th Place - IDEH CTF 2026 (Les Penitent ones)
@@ -99,133 +83,77 @@ Building games where bugs are features:
 + 🥇 1st Morocco | 2nd MENA - ASIS CTF Finals 2025
 + 🎯 38th METAA - Kaspersky International CTF 2025
 + 🇲🇦 6th National - NullHat CTF
++ 🥇 Gold Medal - Math&Maroc National Competition 2023
++ 🏅 Top 20 Morocco - National Math Olympiad
++ 🏸 3rd Place - UM6P Badminton Cup
 ```
 
-**Daily Grind Spots:**
-`picoCTF` • `pwnable.kr` • `Hack The Box` • `Pwn College` • `Root-Me` • `OverTheWire`
+**Previous Experience**
+- Moroccan Olympiad in Informatics (MOI Junior) - reached semi-finals
+- MNPC 2024 pre-selections (38th place)
+- National Math Olympiad training sessions
+- [Mathraining](https://www.mathraining.be) - Experienced rank (Belgian platform for mathematical problem-solving)
 
 ---
 
-## 🧠 CURRENT RABBIT HOLES
+## 🎯 CURRENT FOCUS
 
-<details>
-<summary>🔍 <b>Where AI Meets Malware</b></summary>
+**Exploring**
+- ML models for malware detection
+- Binary exploitation techniques
+- Automated threat analysis
+- Game development with Unity
 
-- Building ML models that can smell sketchy binaries from a mile away
-- Using graph neural networks to cluster malware families
-- Teaching AI to do my reverse engineering homework
-- Automated behavioral analysis because manual is boring
-- AI-powered threat hunting tools
-
-</details>
-
-<details>
-<summary>🎮 <b>Game Dev Shenanigans</b></summary>
-
-- Procedurally generated dungeons that actually make sense
-- AI NPCs that don't walk into walls (most of the time)
-- Physics-based puzzles where physics is... optional
-- Modding souls-like games to make them even harder
-- Building tools to analyze game exploits
-
-</details>
-
-<details>
-<summary>💣 <b>Binary Exploitation Deep Dives</b></summary>
-
-- Kernel exploitation (because userland is too easy)
-- Writing shellcode that fits in a tweet
-- Finding 0-days in obscure software nobody cares about
-- Reverse engineering game anti-cheat systems
-- Making GDB do things it wasn't meant to do
-
-</details>
-
-<details>
-<summary>🔮 <b>Future Plans (aka Daydreaming)</b></summary>
-
-- AI agents that play CTFs autonomously
-- Game engines with ML-powered optimization
-- Malware that detects other malware (chaos)
-- Automated reverse engineering tools
-- Something with blockchain probably (jk)
-
-</details>
+**Learning Goals**
+- Improve reverse engineering skills
+- Get better at CTF competitions
+- Build projects combining AI and security
+- Create some fun games along the way
 
 ---
 
-## 🎨 WHEN NOT SEGFAULTING
+## 🎨 WHEN NOT CODING
+
+```
+┌────────────────────────────────────────────────┐
+│                                                │
+│  🎨 TRADITIONAL ART                            │
+│     Pencils, paper, no ctrl+z                 │
+│     Instagram: @HANI_MO_137                   │
+│                                                │
+│  🏸 SPORTS                                     │
+│     Badminton • Football • Volleyball         │
+│     Billiards • Ping Pong                     │
+│                                                │
+│  🎮 GAMING                                     │
+│     Valorant • Hollow Knight • Dark Souls     │
+│     Dead Cells • Ghost of Tsushima            │
+│                                                │
+│  📺 ANIME & MANGA                              │
+│     JOJO • One Piece • Re:Zero                │
+│     Berserk • Vagabond                        │
+│                                                │
+│  ♟️ CHESS                                      │
+│     Intermediate level                        │
+│     3rd LM6E tournament                       │
+│                                                │
+└────────────────────────────────────────────────┘
+```
+
+---
+
+## 📡 CONNECT
 
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🎨 TRADITIONAL ART                                         │
-│     Pencils, paper, and no undo button                     │
-│     Check Instagram: @HANI_MO_137                          │
-│                                                             │
-│  🏸 SPORTS                                                  │
-│     Badminton (3rd UM6P Cup) • Football • Volleyball       │
-│     Billiards • Ping Pong • Occasionally touching grass    │
-│                                                             │
-│  🎮 GAMING                                                  │
-│     Valorant (1000+ hrs of questionable decisions)         │
-│     Hollow Knight • Blasphemous • Dead Cells               │
-│     Dark Souls (git gud achieved)                          │
-│     Ghost of Tsushima • The Witcher 3                      │
-│                                                             │
-│  📺 ENTERTAINMENT                                           │
-│     JOJO • One Piece • Re:Zero                             │
-│     Berserk • Vagabond • The Climber                       │
-│                                                             │
-│  ♟️ CHESS                                                   │
-│     Intermediate (3rd LM6E tournament)                     │
-│     Still losing to bots rated 400                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🔧 LANGUAGES & TOOLS
-
-```javascript
-const hanimo_stack = {
-    lowLevel: ["Assembly", "C", "C++"],
-    scripting: ["Python", "Bash", "PowerShell"],
-    compiled: ["Go", "C#", "Java"],
-    reversing: ["Ghidra", "radare2", "IDA", "GDB"],
-    malware: ["CAPEv2", "VirusTotal", "Volatility"],
-    ai_ml: ["PyTorch", "TensorFlow", "scikit-learn"],
-    game_dev: ["Unity", "Unreal (learning)", "Godot"],
-    other: ["R", "JavaScript", "SQL"]
-};
-```
-
-## 📡 CONNECT && COLLABORATE
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  💼 LinkedIn  → Mohammed-Rida EL HANI                    │
-│  🐙 GitHub    → @HaniMo137                               │
-│  🎨 Instagram → @HANI_MO_137 (Traditional Art)           │
-│  📧 Email     → Mohammed.elhani@um6p.ma                  │
-│                                                          │
-│  🤝 Open to: CTF Teams • Collab Projects • Memes        │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-rida-el-hani-556660246)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaniMo137)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/HANI_MO_137)
 
+📧 Mohammed.elhani@um6p.ma
+
+**Open to collaborations, CTF teams, and learning from others!**
+
 </div>
 
 ---
@@ -233,18 +161,14 @@ const hanimo_stack = {
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║  "I reverse engineer malware for fun and teach AI to do it too"  ║
-║                                                                   ║
-║  "Also I draw. With pencils. On paper. Like a caveman."          ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║  "Student exploring cybersecurity, AI, and game dev"     ║
+║  "Still learning, but enjoying the journey"              ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=HaniMo137&color=blueviolet&style=flat-square&label=Profile+Hacks)
-![GitHub Followers](https://img.shields.io/github/followers/HaniMo137?style=social)
-
-**⚡ Currently accepting: CTF invites, game dev collabs, and memes**
+![Profile Views](https://komarev.com/ghpvc/?username=HaniMo137&color=blueviolet&style=flat-square)
 
 </div>
