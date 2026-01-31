@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕹️ HANIMO.EXE
+### 🕹️ HANIMO.EXE
 
 ```
 ██╗  ██╗ █████╗ ███╗   ██╗██╗███╗   ███╗ ██████╗ 
@@ -130,8 +130,8 @@ Math_&_Other:
 ```
 🎨 Traditional Art          → @HANI_MO_137 on Instagram
 🏸 Sports                   → Badminton | Football | Volleyball | Billiards
-🎮 Favorite Games           → Valorant | Hollow Knight | Dark Souls | Dead Cells
-📺 Favorite Anime/Manga     → JOJO | Berserk | Re:Zero | Vagabond
+🎮 Favorite Games           → Valorant | Hollow Knight | Elden Ring | Blasphemous | Ghost of tsushima
+📺 Favorite Anime/Manga     → JOJO | Berserk | One Piece | Re:Zero | Vagabond | The Climber
 ♟️  Chess                   → 3rd LM6E Tournament
 ```
 
