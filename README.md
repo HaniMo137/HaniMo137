@@ -71,8 +71,5 @@
 ![SLURM](https://img.shields.io/badge/SLURM_%2F_HPC-0B5394?style=flat-square)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-**🎲 Side quests**
-
-<img src="https://skillicons.dev/icons?i=unity,latex" />
 
 > *One must discover the hidden secrets of the low-lvl world, for the sake of building a secured high one*
